@@ -1,0 +1,132 @@
+FID;PoleHeight;PoleMateri;BPC_No;PoleType;Subtype;OperatingV;SizeForCon;Configurat;Enabled;PoleStruct;DualStatus;Grounded;Services3p;ServicesU1;ServicesO;WireSuppor;WirestayNo;PoleSuppor;VoltageFor;WoNumber;ID;ServicesU
+0;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1; ;3;1;0;1;1;0005102762;0; 
+1;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ; ; ;1;0;1;1;0005102762;0; 
+2;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;2; ;1;0;1;1;0005105838;0; 
+3;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;0005105838;0; 
+4;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;2;1;1;0000364584;0; 
+5;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;2;0;1;1;0000364584;0; 
+6;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;0005106017;0; 
+7;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0005106017;0; 
+8;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0005107535;0; 
+9;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;0005107535;0; 
+10;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;40421977;0; 
+11;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;0;2;1;40421977;0; 
+12;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0005104537;0; 
+13;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;2;1;0005104537;0; 
+14;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;INTER/ANGLE;4;1;1; ; ;1;1;1;7;0000362804;0; 
+15;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;INTER/ANGLE;1;0; ;1; ;1;0;2;7;0000362804;0; 
+16;9;Wood; ;LV;Pole;400;50sqmm;1;1; ;7;0; ;1; ;1;0;2;1;0000383601;0; 
+17;9;Wood; ;LV;Pole;400;50sqmm;1;1; ;7;0; ;1; ;1;0;2;1;0000383601;0; 
+18;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;0000473007;0; 
+19;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000473007;0; 
+20;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1; ; ;1;1;1;1;0000473129;0; 
+21;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1; ; ;1;1;1;1;0000473129;0; 
+22;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;0005087457;0; 
+23;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;0;2;1;0005087457;0; 
+24;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;2;0;1;1;0005107195;0; 
+25;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;1; ; ;1;1;1;1;0005107195;0; 
+26;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;2;0;2;1;40376793;0; 
+27;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;40376793;0; 
+28;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;40462255;0; 
+29;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;40462255;0; 
+30;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ; ;1;1;1;1;1;0000456785;1; 
+31;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;2;1;1;1;1;1;0000456785;2; 
+32;11;Wood; ;Dual;Pole;11000;25/50 sqmm;4;1;INTERMEDIATE;2;1; ;1;1;1;0;1;7;0000458177;1; 
+33;11;Wood; ;Dual;Pole;11000;25/50 sqmm;4;1;T/OFF;3;1; ; ; ;1;0;1;7;0000458177;2; 
+34;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;3; ;1;0;1;1;0000460520;1; 
+35;9;Wood; ;LV;Pole;400;50 sqmm;1;1;T/OFF;7;1; ; ; ;1;1;2;1;0000460520;2; 
+36;11;Wood; ;Dual;Pole;11000;25/50 sqmm;4;1;T/OFF;3;1; ; ; ;1;0;1;7;0000462857;1; 
+37;11;Wood; ;Dual;Pole;11000;25/50 sqmm;4;1;INTER/ANGLE;2;1; ;1; ;2;0;1;7;0000462857;2; 
+38; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;0; 
+39;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;0000395630;1; 
+40;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7; ; ; ; ;1;0;1;1;0000395630;2; 
+41;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7; ; ; ; ;1;0;1;1;0000395630;3; 
+42;9;Wood; ;LV;Pole;400;50 sqmm;1;1;T/OFF;7;1; ; ; ;1;1;1;1;0000395630;4; 
+43;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ; ; ;1;0;2;1;0000395630;3; 
+44;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;2; ;2;0;1;1;0000396201;1; 
+45;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;2;0;2;1;0000396201;2; 
+46;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;2;0;1;1;10175385;1; 
+47;9;Wood; ;LV;Pole;400;50 sqmm;1;1;T/OFF;7;1; ;1; ;2;0;1;1;10175385;2; 
+48;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1;1; ;1;1;1;1;0005105370;0; 
+49;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1;1;1;1;1;1;0005105370;0; 
+50;9;Wood;grace jose;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000447942;0;1
+51;9;Wood;GRACE JOSE;LV;Pole;400;50sqm;ABC;TRUE;INRTERMEDIATE;7;YES; ; ; ;No Stay;1 wire saty;None;1; ;0;0
+52;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES; ; ; ;Out Rigger Stay;No Wire stay;None;1;0000460155;0;1
+53;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;NO; ; ; ;No Stay;No Wire stay;Strut Pole;1;0000464101;0;None
+54;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;NO; ; ; ;No Stay;No Wire stay;None;1;0000464101;0;1
+55;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000458996;0;1
+56;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000458996;0;1
+57;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES; ; ; ;Out Rigger Stay;No Wire stay;None;1;0000468683;0;None
+58;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000468683;0;None
+59;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES; ; ; ;No Stay;No Wire stay;Strut Pole;1;0000468683;0;None
+60;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000468683;0;1
+61;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTERMEDIATE;7;YES; ; ;1;No Stay;1 Wire stay;None;1;0000413677;0;None
+62;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;2;0;1;1;0000368198;0; 
+63;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000368198;0; 
+64;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000420491;0; 
+65;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000420491;0; 
+66;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;0;2;1;0000432583;0; 
+67;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;0;2;1;0000432583;0; 
+68;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;2;0;1;1;0000440522;0; 
+69;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000440522;0; 
+70;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;T/OFF;2;1; ;1; ;2;0;1;7;0000446000;0; 
+71;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;INTERMEDIATE;1;0; ;1; ;1;0;1;7;0000446000;0; 
+72;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ; ;2;1;1;1;1;0000450470;0; 
+73;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1;2;1;0;1;1;0000450470;0; 
+74;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;1;2;1;1;0;2;1;0000467814;0; 
+75;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1;3;1;0;1;1;0000467814;0; 
+76;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;0;2;1;0000474784;0; 
+77;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000474784;0; 
+78;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;INTERMEDIATE;1;0; ;1; ;1;0;1;7;0005102040;0; 
+79;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;TERMINAL;4;1; ;1; ;1;0;2;7;0005102040;0; 
+80;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;1;1;1;0005103712;0; 
+81;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0005103712;0; 
+82;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ; ;4;1;0;1;1;0005105374;0; 
+83;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1; ;4;1;0;1;1;0005105374;0; 
+84;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0005106812;0; 
+85;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0005106812;0; 
+86;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;1;1;1;0005107718;0; 
+87;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1;1; ;1;0;1;1;0005107718;0; 
+88;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;1; ; ;1;0;1;1;0005108161;0; 
+89;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;1; ; ;1;1;1;1;0005108161;0; 
+90;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1; ; ;1;1;1;1;0005108365;0; 
+91;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;1; ; ;1;0;2;1;0005108365;0; 
+92;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;0005106938;0; 
+93;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;1; ; ;1;0;1;1;0005106938;0; 
+94;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;2;0;2;1;0000418572;0; 
+95;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;0;2;1;0000418572;0; 
+96;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;0000426321;0; 
+97;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;0;2;1;0000426321;0; 
+98;11;Wood; ;Dual;Pole;11000;25/50 sqmm;8;1;T/OFF;2;1; ;1; ;1;0;1;7;0000426321;0; 
+99;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0; ;1; ;1;0;2;1;0000426321;0; 
+100;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000439111;0; 
+101;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;0000439111;0; 
+102;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0; ;1; ;1;0;1;1;0000439111;0; 
+103;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;0;2;1;0000439111;0; 
+104;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ; ;1;2;0;1;1;0000337341;0; 
+105;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1;1;1;0;1;1;0000337341;0; 
+106;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;2;0;1;1;000045589.;0; 
+107;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1; ;1;0;1;1;000045589.;0; 
+108;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ; ; ;1;1;2;1;0000163299;0; 
+109;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1; ;1;0;1;1;0000163299;0; 
+110;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ; ; ;1;0;2;1;0000442677;0; 
+111;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1; ;1;1;1;1;0000442677;0; 
+112;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1;2;1;1;1;1;0000442677;0; 
+113;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ; ;2;1;1;1;1;0005104356;0; 
+114;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1; ;1; ;1;0;1;1;0005104356;0; 
+115;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1; ;1; ;1;1;1;1;0005106766;0; 
+116;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDITE;7;1;1;1; ;1;0;1;1;0005106766;0; 
+117;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1; ;1;1;1;1; ;1;0005106889;0; 
+118;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1; ;1;1;0; ;1;0005106889;0; 
+119;9;Wood; ;LV;Pole;11000;50 sqmm;ABC;TRUE;INTERMEDIATE;7;YES; ; ; ;No Stay;No Wire stay;None;1;0000465506;0;1
+120;9;Wood; ;Dual;Pole;11000;50/50 sqmm;3BC/ABC;TRUE;T/OFF;2;YES; ; ; ;No Stay;No Wire stay;Strut Pole;7;0000465859;0;1
+121;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000465876;0;2
+122;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ;1;No Stay;1 Wire stay;None;1;0000465877;0;1
+123;9;Wood; ;LV;Pole;11000;50 sqmm;ABC;TRUE;T/OFF;7;YES; ; ; ;No Stay;No Wire stay;Strut Pole;1;0000467167;0;2
+124;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES; ; ; ;No Stay;No Wire stay;Strut Pole;1;0000468589;0;1
+125;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES; ; ; ;No Stay;1 Wire stay;Strut Pole;1;0000468999;0;1
+126;9;Wood; ;LV;Pole;11000;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000473069;0;2
+127;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES; ; ; ;No Stay;No Wire stay;None;1;0000473464;0;1
+128;9;Wood; ;LV;Pole;11000;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ;1;No Stay;1 Wire stay;None;1;0000474752;0;1
+129;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES; ; ; ;No Stay;1 Wire stay;None;1;0000475124;0;2
+130;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES; ; ; ;No Stay;No Wire stay;Strut Pole;1;0000479900;0;1

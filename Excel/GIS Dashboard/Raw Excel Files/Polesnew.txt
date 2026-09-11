@@ -1,0 +1,933 @@
+﻿BPC_No;Configurat;Enabled;Grounded;PoleMateri;OperatingV;PoleStruct;PoleSuppor;PoleType;SUBTYPE;ServicesO;SizeForCon;VoltageFor;WoNumber;WireSuppor;PoleHeight;WirestayNo;DualStatus;ServicesU;Services3p;ServicesU1;ID
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000466268;No Stay;9;No Wire stay;7;2; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;T/OFF;None;Dual;Pole; ;50/50 sqmm;3;0000467764;No Stay;11;1 Wire stay;7;None; ; ;0
+ ;3BC/ABC;TRUE;NO;Wood;11000;STRAIN;Strut Pole;Dual;Pole; ;50/50 sqmm;3;0000467764;Out Rigger Stay;11;No Wire stay;7;None; ; ;0
+ ;3BC/ABC;TRUE;NO;Wood;11000;STRAIN;None;Dual;Pole; ;50/50 sqmm;3;0000467764;Double OutRigger Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000467764;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000467764;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000467764;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000467764;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000467764;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000467764;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000467766;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000472536;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000477519;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;FALSE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000472742;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1; 0000472742;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1; 0000472742;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000472573;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;TEMPERED;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;2;50 sqmm;1;0000469103;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;TEMPERED;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000469103;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;TEMPERED;Wood;400;TERMINAL;Strut Pole;LV;Pole;2;50 sqmm;1;0000469103;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000426343;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000426343;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Double Strut Pole;LV;Pole;0;50 sqmm;1;0000426343;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000462270;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000462270;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000462270;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000476403;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000476403;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000478947;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000478947;No Stay;9;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000451040;No Stay;9;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000451040;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000451040;No Stay;9;No Wire stay;7;1; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000451040;No Stay;9;2 Wire stay;7;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000451040;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000451040;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000461432;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000461432;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000461432;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000461432;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;1;50 sqmm;1;0000469408;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000469408;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000475412;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+None;ABC;TRUE;NO;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000475412;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000475412;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000476755;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000476755;No Stay;9;No Wire stay;7;2; ; ;0
+None;ABC;TRUE;YES;Wood;400;4WAY;None;LV;Pole;0;50 sqmm;1;0000480436;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000480436;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000460492;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000460492;No Stay;9;No Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000460492;No Stay;9;No Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000468299;No Stay;9;No Wire stay;7;2; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000461138;No Stay;9;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000461138;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000477051;No Stay;9;2 Wire stay;7;3; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000477051;No Stay;9;2 Wire stay;7;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000477051;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000477051;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000449744;No Stay;11;1 Wire stay;4;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000442893;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000442893;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;TEMPERED;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000476998;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000476998;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;TEMPERED;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000476998;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472262;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472262;No Stay;9;No Wire stay;7;3; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;4WAY;None;LV;Pole;NONE;50 sqmm;1;0000471109;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000471109;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000471109;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000469562;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;AIRDUCT;TRUE;YES;Wood;240;TERMINAL;None;Support;Pole;1;16 sqmm;1;0000469562;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000469562;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000469562;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000469562;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;3;50 sqmm;1;0005102762;1;9;0;7; ;1; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005102762;1;9;0;7; ; ; ;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005105838;1;9;0;7; ; ;2;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0005105838;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000364584;1;9;2;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000364584;2;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005106017;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005106017;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005107535;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005107535;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;40421977;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;40421977;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005104537;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0005104537;1;9;1;7; ; ;1;0
+ ;8;1;1;Wood;11000;INTER/ANGLE;1;Dual;Pole; ;25/50 sqmm;7;0000362804;1;11;1;4; ;1; ;0
+ ;8;1;0;Wood;11000;INTER/ANGLE;2;Dual;Pole; ;25/50 sqmm;7;0000362804;1;11;0;1; ; ;1;0
+ ;1;1;0;Wood;400; ;2;LV;Pole; ;50sqmm;1;0000383601;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400; ;2;LV;Pole; ;50sqmm;1;0000383601;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000473007;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000473007;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000473129;1;9;1;7; ;1; ;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000473129;1;9;1;7; ;1; ;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005087457;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0005087457;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005107195;2;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0005107195;1;9;1;7; ;1; ;0
+ ;1;1;1;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;40376793;2;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;40376793;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;40462255;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;40462255;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole;1;50 sqmm;1;0000456785;1;9;1;7; ; ; ;1
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole;1;50 sqmm;1;0000456785;1;9;1;7; ; ;2;2
+ ;4;1;1;Wood;11000;INTERMEDIATE;1;Dual;Pole;1;25/50 sqmm;7;0000458177;1;11;0;2; ; ;1;1
+ ;4;1;1;Wood;11000;T/OFF;1;Dual;Pole; ;25/50 sqmm;7;0000458177;1;11;0;3; ; ; ;2
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000460520;1;9;0;7; ; ;3;1
+ ;1;1;1;Wood;400;T/OFF;2;LV;Pole; ;50 sqmm;1;0000460520;1;9;1;7; ; ; ;2
+ ;4;1;1;Wood;11000;T/OFF;1;Dual;Pole; ;25/50 sqmm;7;0000462857;1;11;0;3; ; ; ;1
+ ;4;1;1;Wood;11000;INTER/ANGLE;1;Dual;Pole; ;25/50 sqmm;7;0000462857;2;11;0;2; ; ;1;2
+ ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0000395630;1;9;1;7; ; ;1;1
+ ;1;1; ;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000395630;1;9;0;7; ; ; ;2
+ ;1;1; ;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000395630;1;9;0;7; ; ; ;3
+ ;1;1;1;Wood;400;T/OFF;1;LV;Pole; ;50 sqmm;1;0000395630;1;9;1;7; ; ; ;4
+ ;1;1;1;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000395630;1;9;0;7; ; ; ;3
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000396201;2;9;0;7; ; ;2;1
+ ;1;1;1;Wood;400;TERMINAL;2;LV;Pole; ;50 sqmm;1;0000396201;2;9;0;7; ; ;1;2
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;10175385;2;9;0;7; ; ;1;1
+ ;1;1;1;Wood;400;T/OFF;1;LV;Pole; ;50 sqmm;1;10175385;2;9;0;7; ; ;1;2
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005105370;1;9;1;7; ;1;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole;1;50 sqmm;1;0005105370;1;9;1;7; ; ;1;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000412072;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000412072;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000412072;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50/50 sqmm;7;0000;No Stay;11;No Wire stay;2;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;00;50 sqmm;1;0005099812;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;00;50 sqmm;1;0005099812;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;00;50 sqmm;1;0005099812;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;00;50 sqmm;1;0005099812;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;00;50 sqmm;1;0005099812;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3BC/ABC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole;01;25/50 sqmm;7;0005099547;No Stay;11;1 Wire stay;1;1; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;None;HV;Pole;00;25 sqmm;3;0005099547;Out Rigger Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;HV;Pole;00;25 sqmm;3;0005099547;Out Rigger Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;Strut Pole;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;None;HV;Pole;00;25 sqmm;3;0005099547;Out Rigger Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;Strut Pole;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;HV;Pole;00;25 sqmm;3;0005099547;Out Rigger Stay;11;No Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;Strut Pole;HV;Pole;00;25 sqmm;3;0005099547;No Stay;11;1 Wire stay;7;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;STRAIN;None;HV;Pole;00;50 sqmm;3;0005099799;No Stay;13;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000475614;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;3;50 sqmm;1;0000427719;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000430633;Out Rigger Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000399884;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000414508;No Stay;9;No Wire stay;7;3; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000419675;Out Rigger Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000428445;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000430952;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000430996;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000431099;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000483336;Out Rigger Stay;9;No Wire stay;7;3; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000446027;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000446027;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000446027;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;FALSE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000446038;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;FALSE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000446038;No Stay;9;No Stay;7;2; ; ;0
+1;ABC;TRUE;NO;WOOD;400;INTERMEDIATE;NONE;LV;POLE;0;50 sqmm;1;0000395645;No Stay;9;0;7;1; ; ;0
+EX;ABC;TRUE;YES;WOOD;400;INTERMEDIATE;NONE;LV;POLE;0;50 sqmm;1;0000395645;No Stay;9;0;7;2; ; ;0
+EX;ABC;TRUE;NO;WOOD;400;INTERMEDIATE;NONE;LV;POLE;0;50 sqmm;1;0000395645;No Stay;9;0;7;2; ; ;0
+EX;ABC;TRUE;YES;WOOD;400;TERMINAL;NONE;LV;POLE;0;50 sqmm;1;0000396193;No Stay;9;1;7;2; ; ;0
+2;ABC;TRUE;YES;WOOD;400;TERMINAL;NONE;LV;POLE;0;50 sqmm;1;0000400207;No Stay;9;1;0;1; ; ;0
+EX;ABC;TRUE;YES;WOOD;400;T/OFF;1;LV;POLE;0;50 sqmm;1;0000400207;No Stay;9;0;0;1; ; ;0
+1;ABC;TRUE;NO;WOOD;400;INTERMEDIATE;NONE;LV;POLE;0;50 sqmm;1;0000400207;No Stay;9;0;0;0; ; ;0
+1;ABC;TRUE;YES;WOOD;400;TERMINAL;NONE;LV;POLE;0;50 sqmm;1;0000434516;No Stay;9;1;7;1; ; ;0
+EX;ABC;TRUE;YES;WOOD;400;T/OFF;1;LV;POLE;0;50 sqmm;1;0000434516;No Stay;9;1;7;0; ; ;0
+None;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000418150;No Stay;11;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000418150;Out Rigger Stay;11;No Wire stay;7;1; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000418150;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000418150;No Stay;9;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000418150;No Stay;9;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000418150;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000418150;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole;0;50/50 sqmm;7;0000429695;No Stay;11;1 Wire stay;1;1; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole;0;50/50 sqmm;7;0000429695;Out Rigger Stay;11;1 Wire stay;4;1; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000446842;No Stay;11;No Wire stay;1;1; ; ;0
+None;ABC/3BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;Dual;Pole;0;50/50 sqmm;7;0000446842;No Stay;11;2 Wire stay;4;None; ; ;0
+None;ABC;TRUE;NO;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000446842;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;Strut Pole;Dual;Pole;0;50/50 sqmm;7;0000470127;No Stay;11;1 Wire stay;2;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000417575;No Stay;9;1 Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000417575;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000466994;No Stay;9;No Wire stay;7;1; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000466994;No Stay;9;1 Wire stay;7;1; ; ;0
+None;ABC/3BC;TRUE;NO;Wood;11000;INTER/ANGLE;None;Dual;Pole;0;50/50 sqmm;7;0000472362;Out Rigger Stay;11;No Wire stay;1;None; ; ;0
+None;ABC/3BC;TRUE;NO;Wood;11000;STRAIN;None;Dual;Pole;0;50/50 sqmm;7;0000472362;No Stay;11;1 Wire stay;1;1; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0020408989;No Stay;11;No Wire stay;1;2; ; ;0
+None;ABC/3BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0020408989;No Stay;11;No Wire stay;1;None; ; ;0
+None;ABC/3BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0020408989;No Stay;11;No Wire stay;1;None; ; ;0
+None;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole;0;50/50 sqmm;7;0020408989;No Stay;11;2 Wire stay;4;1; ; ;0
+None;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000472356;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;TEMPERED;Wood;400;4WAY;None;LV;Pole;0;50 sqmm;1;0000472356;No Stay;9;No Wire stay;7;None; ; ;0
+None;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000472356;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;1;50 sqmm;1;0000406942;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;420008;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;420008;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;400;INTER/ANGLE;None;Dual;Pole; ;50/100 sqmm;1;420008;No Stay;11;2 Wire stay;7;None; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;400;INTERMEDIATE;None;Dual;Pole; ;50/100 sqmm;1;420008;No Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;400;T/OFF;Strut Pole;Dual;Pole; ;50/100 sqmm;1;420008;No Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;400;INTER/ANGLE;None;Dual;Pole; ;50 sqmm;1;432223;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;432223;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;400;INTER/ANGLE;None;Dual;Pole; ;50/100 sqmm;1;471093;No Stay;11;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;471837;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;471837;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;477055;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;477180;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;429449;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;429449;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC; ;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;473737;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000406552;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000406552;No Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000406552;No Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000406552;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000406552;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000472909;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000410808;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000447469;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;Service Support;Pole;1;50 sqmm;1;0000447469;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000456699;Out Rigger Stay;11;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000456699;Out Rigger Stay;11;2 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000458623;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000458623;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000459153;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000459153;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000459153;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000459163;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000459163;Out Rigger Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000459163;Out Rigger Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000459163;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000459175;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000459623;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000459623;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000459623;Out Rigger Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000459623;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000459713;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000459725;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000459733;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000464235;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000451798;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000452765;Out Rigger Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000452768;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000452809;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000452943;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000452955;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;T/OFF;None;Dual;Pole; ;50 sqmm;1;0000452957;No Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000452957;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000452958;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000407988;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000407988;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000457303;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000457303;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000457303;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000457365;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000457365;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000457365;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole; ;50/50 sqmm;7;0000467318;No Stay;11;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000392136;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000392136;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000392136;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000392136;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50/50 sqmm;7;0000462214;No Stay;11;No Wire stay;1;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000439162;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000439187;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000439187;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000439187;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;Strut Pole;Dual;Pole; ;50 sqmm;7;0000462422;No Stay;11;1 Wire stay;4;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000397539;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000410707;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000410707;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000416060;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000416060;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000416060;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000416062;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000416062;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000416062;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50/50 sqmm;7;0000436110;No Stay;11;No Wire stay;2;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000436110;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000439378;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000442474;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000442474;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000443318;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000443318;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000443318;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000443318;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000454459;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000454459;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000454459;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000434263;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000437922;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000437922;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000437922;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000451960;Out Rigger Stay;9;No Wire stay;7;3; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451971;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Double Strut Pole;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000456818;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000456818;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000456818;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000463180;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000463180;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000467712;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000467712;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000467712;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000417679;No Stay;11;No Wire stay;3;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000417679;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000417679;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000423131;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000423131;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000423131;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000423131;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000423131;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000423131;No Stay;9;2 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000429358;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000429358;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000429358;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000429358;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000474885;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000474885;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000474885;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000426519;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000426519;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000395290;No Stay;11;No Wire stay;1;None; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000395290;No Stay;11;No Wire stay;1;None; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;1;50/50 sqmm;7;0000395290;No Stay;11;No Wire stay;1;None; ; ;0
+N/A;3 WIRE BC;TRUE;NO;Wood;11000;INTER/ANGLE;Strut Pole;HV;Pole;0;50 sqmm;3;0000395290;No Stay;11;No Wire stay;7;None; ; ;0
+N/A;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000395290;No Stay;11;1 Wire stay;4;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000420515;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000420515;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000420515;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000428053;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000428053;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000428053;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000428053;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000428864;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000428864;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000428864;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;Strut Pole;Dual;Pole;0;50/50 sqmm;7;0000469156;No Stay;11;No Wire stay;2;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;1;50/50 sqmm;7;0000469156;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50/50 sqmm;7;0000469156;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000476982;No Stay;7;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000476982;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000476982;No Stay;7;2 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000427974;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000427974;No Stay;9;2 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000427974;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000427974;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000427974;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000417720;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000417720;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000417720;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000417720;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000469144;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000469144;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000446897;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Double Strut Pole;LV;Pole;0;50 sqmm;1;0000446897;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000446897;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000454674;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000454674;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000469143;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000469143;No Stay;9;1 Wire stay;7;4; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;0;50 sqmm;1;0000424614;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;4WAY;Strut Pole;LV;Pole;0;50 sqmm;1;0000424614;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;4WAY;None;LV;Pole;0;50 sqmm;1;0000424614;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000424614;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000424614;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000427717;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000427717;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000427794;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000427794;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000427794;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000427794;No Stay;9;1 Wire stay;7;3; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000439375;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000439375;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000439375;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000439375;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000439382;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;0;50 sqmm;1;0000439382;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000439382;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000439382;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000439382;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000440074;No Stay;9;No Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000440074;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000440074;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000440074;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000440074;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000441318;No Stay;11;No Wire stay;1;1; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000441318;No Stay;11;1 Wire stay;2;None; ; ;0
+N/A;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole;0;50/50 sqmm;7;0000441318;No Stay;11;No Wire stay;3;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000451642;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Double Strut Pole;LV;Pole;0;50 sqmm;1;0000451642;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;1;50 sqmm;1;0000451642;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000458187;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000458187;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000458187;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;1;50 sqmm;1;0000465617;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000465617;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000469159;No Stay;9;2 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000469159;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000469159;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000469093;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000469093;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000469093;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000469093;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000436568;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000436568;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000436568;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1;0000469095;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000469095;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000469095;No Stay;9;2 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;1;50 sqmm;1;0000469145;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000469145;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000414021;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000414021;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000414021;No Stay;9;No Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000414021;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1;0000414021;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;0;50 sqmm;1; ;No Stay;9;1 Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;0;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+N/A;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1; ;No Stay;9;No Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000426420;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;0;50 sqmm;1;0000426420;No Stay;9;No Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;0;50 sqmm;1;0000426420;No Stay;9;1 Wire stay;7;1; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;0;50 sqmm;1;0000470273;No Stay;9;1 Wire stay;7;2; ; ;0
+N/A;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;0;50 sqmm;1;0000470273;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC/3BC; ;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50 sqmm;3; 0000469488;No Stay;11;No Wire stay;7;1; ; ;0
+ ;ABC/3BC; ;YES;Wood;11000;INTERMEDIATE;Strut Pole;Dual;Pole; ;50 sqmm;3; 0000469488;No Stay;11;2 Wire stay;7;None; ; ;0
+ ;ABC; ;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1; 0000469488;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC; ;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000477400;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC; ;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000478550;No Stay;9;No Wire stay;7;1; ; ;0
+grace jose;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000447942;No Stay;9;1 Wire stay;7;1; ; ;0
+GRACE JOSE;ABC;TRUE;YES;Wood;400;INRTERMEDIATE;None;LV;Pole; ;50sqm;1; ;No Stay;9;1 wire saty;7;0; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;1;50 sqmm;1;0000442313;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000442313;Out Rigger Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000456581;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000456581;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000458981;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000424562;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000424562;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000424562;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000422517;No Stay;9;No Wire stay;7;1; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;1;50/50 sqmm;7;0000422517;No Stay;11;No Wire stay;2;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000454711;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000454711;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000442436;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000442436;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000442440;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000442440;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000446327;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000446327;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000460860;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;1;50 sqmm;1;0000460860;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000468945;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000468945;No Stay;9;No Wire stay;7;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTER/ANGLE;Strut Pole;Dual;Pole; ;50/50 sqmm;7;0000428756;No Stay;11;1 Wire stay;2;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50/50 sqmm;1;0000428756;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Double Strut Pole;LV;Pole; ;50 sqmm;1;0000428756;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000428756;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000428756;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;FALSE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000397177;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000450385;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000450401;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000461546;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;00005104477;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0005098509;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0005098509;No Stay;9;1 Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0005098509;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0005098509;No Stay;9;1 Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0005098509;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000426307;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000426307;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000428130;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000428130;No Stay;9;1 Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000428130;No Stay;9;1 Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000428130;No Stay;9;1 Wire stay;3;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000408662;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000411013;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000411736;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;00004120003;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1; 0000412141;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;FALSE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000420043;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;FALSE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000420043;No Stay;9;No Wire stay;1;1; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;1;0005106326;No Stay;11;1 Wire stay;1;1; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;T/OFF;None;Dual;Pole; ;25/50 sqmm;1;0005106326;Out Rigger Stay;11;1 Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;1;0005106326;No Stay;11;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole; ;25/50 sqmm;1;0005106326;Out Rigger Stay;11;1 Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000405700;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000405700;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000405700;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000405700;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000405700;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000405835;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000405840;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;1;50/50 sqmm;7;0000414770;No Stay;11;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000428747;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000433343;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000433343;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000433343;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000445902;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000445902;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000445902;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000445902;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000445902;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000445915;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000445915;No Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000446174;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000446174;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000453423;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1; ;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole; ;50/50 sqmm;7;0000459901;No Stay;11;1 Wire stay;1;1; ; ;0
+ ;ABC/3BC;TRUE;NO;Wood;400;INTERMEDIATE;None;Dual;Pole; ;50/50 sqmm;7;0000460136;No Stay;11;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;7;0000460136;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;7;0000460136;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;7;0000460136;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;00000460139;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000460293;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000369267;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000422802;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;1;50 sqmm;1;0000448626;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000448626;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000423455;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000423455;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000423455;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000427166;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000427166;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000440602;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000442061;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000442061;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000442061;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000442061;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000448008;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000448008;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000448811;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000448811;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;4WAY;Strut Pole;LV;Pole; ;50 sqmm;1;0000448811;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000467253;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000476864;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000427155;No Stay;9;1 Wire stay;7;none; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000427155;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000427155;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000474073;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000474073;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000471165;No Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000471165;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;2;50 sqmm;1;0000420388;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;2;50 sqmm;1;0000420388;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000467755;No Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000467755;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000467755;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000467755;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000467755;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000471112;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000471112;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000471112;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000471112;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000473487;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000473487;Out Rigger Stay;9;No Wire stay;7;2; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000473487;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000473487;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000473487;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000473487;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000471256;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000471256;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000471256;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000471256;Out Rigger Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000471256;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472408;No Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472408;No Stay;9;No Wire stay;7;2; ; ;0
+NOBE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NOBE;50 sqmm;1;0000472352;No Stay;9;No Wire stay;7;None; ; ;0
+NOBE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NOBE;50 sqmm;1;0000472352;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+NOBE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NOBE;50 sqmm;1;0000472352;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000472335;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472335;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472335;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472298;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000472298;No Stay;9;1 Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472298;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472287;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472287;No Stay;9;No Wire stay;7;2; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472300;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472300;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472300;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472300;No Stay;9;1 Wire stay;7;2; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472300;No Stay;9;No Wire stay;7;2; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472325;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;4WAY;None;LV;Pole;NONE;50 sqmm;1;0000472325;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472325;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472343;No Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000472343;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472318;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000472318;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472318;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472296;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000472296;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000472296;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472296;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472339;No Stay;9;No Wire stay;7;3; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472339;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472315;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472315;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472315;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472315;No Stay;9;1 Wire stay;7;2; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472307;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;Double Strut Pole;LV;Pole;NONE;50 sqmm;1;0000472307;No Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000472307;No Stay;9;No Wire stay;7;None; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;NONE;50 sqmm;1;0000472301;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472301;No Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472301;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000476658;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMIDIATE;None;LV;Pole; ;50 sqmm;1;0000323133;Out Rigger Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000423133;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000423133;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;3 WIRE ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50 sqmm;7;0000436251;No Stay;11;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000474614;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000481315;Out Rigger Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Double Strut Pole;LV;Pole; ;50 sqmm;1;0000463954;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000431808;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000431808;Out Rigger Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000431808;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Strut Pole;LV;Pole; ;50 sqmm;1;0000431362;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000431362;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;3 WIRE BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole;1;50 sqmm;1;0000395778;No Stay;11;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000404065;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000404076;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000404076;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000404076;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole;1;50 sqmm;1;0000436315;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000436315;Out Rigger Stay;9;1 Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;NONE;50 sqmm;1;0000472327;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;NONE;50 sqmm;1;0000472327;No Stay;9;No Wire stay;7;1; ; ;0
+NONE;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;NONE;50 sqmm;1;0000472327;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;1;0000418913;No Stay;9;No Wire stay;6;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;1;0000418913;No Stay;11;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000418913;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000419121;No Stay;9;No Wire stay;3;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000426072;No Stay;9;No Wire stay;3;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000426072;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;2;50 sqmm;1;0000426108;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000419985;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1; 0000330678;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000405121;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Double Strut Pole;LV;Pole; ;50 sqmm;1;0000405121;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;Double Strut Pole;LV;Pole; ;50 sqmm;1;0000405121;No Stay;9;No Wire stay;1;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole; ;50 sqmm;1;0000449587;No Stay;11;1 Wire stay;1;None; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50 sqmm;1;0000449587;No Stay;11;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;Dual;Pole; ;50 sqmm;1;0000449587;No Stay;9;1 Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000449587;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;1;0000400631;No Stay;11;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000400631;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000400631;No Stay;9;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000400631;No Stay;9;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTER/ANGEL;Strut Pole;Dual;Pole; ;25/50 sqmm;1;0000400631;No Stay;11;No Wire stay;1;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000400631;No Stay;9;1 Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000460155;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000464101;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000464101;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000458996;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000458996;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000468683;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000468683;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000468683;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000468683;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole;1;50 sqmm;1;0000413677;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000368198;2;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000368198;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000420491;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000420491;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000432583;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000432583;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0000440522;2;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000440522;1;9;0;7; ; ;1;0
+ ;8;1;1;Wood;11000;T/OFF;1;Dual;Pole; ;25/50 sqmm;7;0000446000;2;11;0;2; ; ;1;0
+ ;8;1;0;Wood;11000;INTERMEDIATE;1;Dual;Pole; ;25/50 sqmm;7;0000446000;1;11;0;1; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;2;50 sqmm;1;0000450470;1;9;1;7; ; ; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;2;50 sqmm;1;0000450470;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;2;LV;Pole;1;50 sqmm;1;0000467814;1;9;0;7; ;1;2;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;3;50 sqmm;1;0000467814;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000474784;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000474784;1;9;0;7; ; ;1;0
+ ;8;1;0;Wood;11000;INTERMEDIATE;1;Dual;Pole; ;25/50 sqmm;7;0005102040;1;11;0;1; ; ;1;0
+ ;8;1;1;Wood;11000;TERMINAL;2;Dual;Pole; ;25/50 sqmm;7;0005102040;1;11;0;4; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005103712;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005103712;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;4;50 sqmm;1;0005105374;1;9;0;7; ; ; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;4;50 sqmm;1;0005105374;1;9;0;7; ;1; ;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005106812;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005106812;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005107718;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005107718;1;9;0;7; ;1;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005108161;1;9;0;7; ;1; ;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0005108161;1;9;1;7; ;1; ;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005108365;1;9;1;7; ;1; ;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0005108365;1;9;0;7; ;1; ;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0005106938;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005106938;1;9;0;7; ;1; ;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000418572;2;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;2;LV;Pole; ;50 sqmm;1;0000418572;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0000426321;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000426321;1;9;0;7; ; ;1;0
+ ;8;1;1;Wood;11000;T/OFF;1;Dual;Pole; ;25/50 sqmm;7;0000426321;1;11;0;2; ; ;1;0
+ ;1;1;0;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000426321;1;9;0;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000439111;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0000439111;1;9;1;7; ; ;1;0
+ ;1;1;0;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000439111;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;2;LV;Pole; ;50 sqmm;1;0000439111;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole;1;50 sqmm;1;0000337341;2;9;0;7; ; ; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;1;50 sqmm;1;0000337341;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;000045589.;2;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;000045589.;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000163299;1;9;1;7; ; ; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0000163299;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;2;LV;Pole; ;50 sqmm;1;0000442677;1;9;0;7; ; ; ;0
+ ;1;1;1;Wood;400;TERMINAL;1;LV;Pole; ;50 sqmm;1;0000442677;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole;2;50 sqmm;1;0000442677;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole;2;50 sqmm;1;0005104356;1;9;1;7; ; ; ;0
+ ;1;1;1;Wood;400;INTERMEDIATE;1;LV;Pole; ;50 sqmm;1;0005104356;1;9;0;7; ; ;1;0
+ ;1;1;1;Wood;400;INTER/ANGLE;1;LV;Pole; ;50 sqmm;1;0005106766;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDITE;1;LV;Pole; ;50 sqmm;1;0005106766;1;9;0;7; ;1;1;0
+ ;1;1;1;Wood;400;TERMINAL; ;LV;Pole;1;50 sqmm;1;0005106889;1;9;1;7; ; ;1;0
+ ;1;1;1;Wood;400;INTERMEDIATE; ;LV;Pole;1;50 sqmm;1;0005106889;1;9;0;7; ;1; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000430597;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000453044;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000472758;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;STRAIN;Strut Pole;Dual;Pole; ;50/50 sqmm;5;0000472762;No Stay;11;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000474808;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000474808;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000477599;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000478098;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000478178;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000478761;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000478815;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000478815;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000479736;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000479736;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000479736;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000480766;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000483866;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000403145;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000422837;Out Rigger Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000422851;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000425314;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000425314;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000463661;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000463661;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000463661;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000463661;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000463661;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC/3BC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50 sqmm;3;0000466604;No Stay;11;No Wire stay;7;1; ; ;0
+ ;ABC; ;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000483168;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC; ;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000483168;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC; ;NO;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000483198;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC; ;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000483198;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC; ;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000483198;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC; ;NO;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000483171;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC; ;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000483171;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC; ;NO;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000483171;No Stay;9;2 Wire stay;7;None; ; ;0
+ ;ABC; ;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000483171;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC; ;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC; ;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1; ;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000428804;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000428804;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000428804;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000446858;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000446858;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000446858;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000416579;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000416579;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000416579;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000416579;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000445249;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000445249;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000444931;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000444931;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000444931;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000461342;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000444941;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000444941;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000447402;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000447402;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000447402;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000447402;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000447402;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000463498;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000463498;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000444910;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000444910;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000444910;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000445854;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000445854;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000445854;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000451563;Out Rigger Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;Strut Pole;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000451563;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole;1;50 sqmm;1;0000477286;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000477286;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000477286;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000465506;No Stay;9;No Wire stay;7;1; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;T/OFF;Strut Pole;Dual;Pole; ;50/50 sqmm;7;0000465859;No Stay;9;No Wire stay;2;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000465876;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000465877;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;11000;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000467167;No Stay;9;No Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000468589;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000468999;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;11000;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000473069;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000473464;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;11000;TERMINAL;None;LV;Pole;1;50 sqmm;1;0000474752;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000475124;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000479900;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000466011;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000466288;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;7;0000466308;No Stay;11;No Wire stay;1;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000467548;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000477215;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;Strut Pole;LV;Pole; ;50 sqmm;1;0000477215;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000477215;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000477215;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;4WAY;None;LV;Pole; ;50 sqmm;1;0000438525;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000466063;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000467531;Out Rigger Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000472601;No Stay;9;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000472601;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000472601;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;T/OFF;None;LV;Pole; ;50 sqmm;1;0000472601;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;None;LV;Pole; ;50 sqmm;1;0000455902;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000466072;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000467503;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000467575;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000472607;No Stay;9;No Wire stay;7;1; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000472660;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000472925;No Stay;9;1 Wire stay;7;2; ; ;0
+ ;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;7;0000480027;No Stay;11;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;7;0000480027;No Stay;11;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;STRAIN;Strut Pole;Dual;Pole; ;25/50 sqmm;7;0000480027;No Stay;11;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;Strut Pole;Dual;Pole; ;25/50 sqmm;7;0000480027;No Stay;11;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;25/50 sqmm;7;0000480027;No Stay;11;1 Wire stay;2;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;INTER/ANGLE;Strut Pole;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0000480027;No Stay;9;1 Wire stay;7;1; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTER/ANGLE;Strut Pole;Dual;Pole; ;50/50 sqmm;7;0005108248;No Stay;11;No Wire stay;2;1; ; ;0
+ ;3BC/ABC;TRUE;NO;Wood;11000;INTERMEDIATE;None;Dual;Pole; ;50/50 sqmm;7;0005108248;No Stay;11;No Wire stay;1;None; ; ;0
+ ;3BC/ABC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole; ;50/50 sqmm;7;0005108248;No Stay;11;1 Wire stay;4;1; ; ;0
+ ;3 WIRE BC;TRUE;YES;Wood;11000;INTER/ANGLE;None;Dual;Pole; ;50 sqmm;7;0005108248;No Stay;11;1 Wire stay;1;1; ; ;0
+ ;3 WIRE BC;TRUE;YES;Wood;11000;TERMINAL;None;HV;Switch Pole; ;70 sqmm;3;0005108102;No Stay;11;1 Wire stay;7;1; ; ;0
+ ;3 WIRE BC;TRUE;YES;Wood;11000;TERMINAL;None;HV;Switch Pole; ;70 sqmm;3;0005108102;No Stay;11;1 Wire stay;7;1; ; ;0
+ ;3 WIRE BC;TRUE;YES;Wood;11000;INTER/ANGLE;Strut Pole;HV;Pole; ;70 sqmm;3;0005108102;No Stay;11;1 Wire stay;7;None; ; ;0
+ ;ABC;TRUE;NO;Wood;400;INTERMEDIATE;None;LV;Pole; ;50 sqmm;1;0005107373;No Stay;9;No Wire stay;7;None; ; ;0
+ ;ABC;TRUE;YES;Wood;400;TERMINAL;None;LV;Pole; ;50 sqmm;1;0005107373;Out Rigger Stay;9;No Wire stay;7;2; ; ;0

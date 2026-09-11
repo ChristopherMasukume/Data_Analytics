@@ -1,0 +1,21 @@
+FID;Loading_Month;Bpc_No;MountingTy;Rating;Ground;WireSuppor;WireStay;PoleSuppor;SUBTYPE;TYPE;Services3p;ServicesU1;ServicesO;District;WoNumber;OperatingV;sub
+0;May;TX739;2 Pole;100 kva;YES;0;0;0;Pole Mount; ; ; ; ;SOUTH EAST;0005106922;11000; 
+1;May; ;2 Pole;50 kva;NO;1;1;1;1;TAIL END; ; ; ;Ftown;0005102019;11000; 
+2;May; ;1 Pole;50 kva;NO;1;1;1;1;TAIL END; ;1; ;Ftown;0005102025;11000; 
+3;May;TX66;2 Pole;50 kva;YES; ;1;None;Pole Mount; ; ; ;0;Molapowabo;0000449744;11000; 
+4;May;09;2 Pole;50 kva;YES; ; ;None;Pole Mount; ; ; ; ;etsha 8;000;11000; 
+5;May;TX 2447;2 Pole;50 kva;YES;None;02;None;Pole Mount; ; ; ;N/A;KGATLENG D;0005099547;11000; 
+6;May;N/A;2 Pole;50 kva;YES;OutRigger;00;None;Pole Mount; ; ; ;N/A;KGATLENG D;0005099547;11000; 
+7;May;N/A;2 Pole;200 kva;YES;None;N/A;None;Pole Mount; ; ; ;N/A;KWENENG DI;0005099799;11000; 
+8;May;TX 62;2 Pole;200 kva;YES;None;03;None;Pole Mount; ; ; ;N/A;KWENENG DI;0005099799;11000; 
+9;May;TX28;2 Pole;50 kva;YES; ;1;None;Pole Mount; ; ; ;0;Mabule;0000470127;11000; 
+10;May; ;2 Pole;50 kva;YES; ; ;None;Pole Mount; ; ; ; ;nkange;0000462422;11000; 
+11;May; ;2 Pole;50 kva;YES; ; ;None;Pole Mount; ; ; ; ;senete;0000397539;11000; 
+12;May;TX202;2 Pole;50 kva;YES; ; ;Strut;Pole Mount; ; ; ; ; ;0005098509;11000; 
+13;May;TX228;2 Pole;50 kva;YES; ; ;Strut;Pole Mount; ; ; ; ; ;0005106424;11000; 
+14;May;TX142;2 Pole;200 kva;YES;No Wire St;No Stay;Strut;Pole Mount; ; ; ; ; ;0005106326;11000; 
+15;May; ;2 Pole;50 kva;YES; ; ; ;Pole Mount; ; ; ; ; ; ;11000; 
+16;May;PMT;2 Pole;50 kva;YES; ; ; ;Pole Mount; ; ; ; ; ;0000458604;11000; 
+17;May;TX 25;2 Pole;50 kva;YES; ; ; ;Pole Mount; ; ; ; ; ;0000445854;11000; 
+18;May;PMT;2 Pole;50 kva;YES; ; ; ;Pole Mount; ; ; ; ; ; 000045156;11000; 
+19;May;txd;2 Pole;50 kva;NO; ; ;Double Str;Pole Mount; ; ; ; ; ;0000480027;11000; 

@@ -1,0 +1,132 @@
+﻿FID;Loading_Month;PoleHeight;PoleMateri;BPC_No;PoleType;Subtype;OperatingV;SizeForCon;Configurat;Enabled;PoleStruct;DualStatus;Grounded;Services3p;ServicesU1;ServicesO;WireSuppor;WirestayNo;PoleSuppor;VoltageFor;WoNumber;ID;ServicesU
+0;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1;;3;1;0;1;1;5102762;0; 
+1;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;;;1;0;1;1;5102762;0; 
+2;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;2;;1;0;1;1;5105838;0; 
+3;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;5105838;0; 
+4;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;2;1;1;364584;0; 
+5;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;2;0;1;1;364584;0; 
+6;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;5106017;0; 
+7;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;5106017;0; 
+8;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;5107535;0; 
+9;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;5107535;0; 
+10;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;40421977;0; 
+11;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;0;2;1;40421977;0; 
+12;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;5104537;0; 
+13;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;2;1;5104537;0; 
+14;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;INTER/ANGLE;4;1;1;;;1;1;1;7;362804;0; 
+15;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;INTER/ANGLE;1;0;;1;;1;0;2;7;362804;0; 
+16;April;9;Wood; ;LV;Pole;400;50sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;383601;0; 
+17;April;9;Wood; ;LV;Pole;400;50sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;383601;0; 
+18;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;473007;0; 
+19;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;473007;0; 
+20;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1;;;1;1;1;1;473129;0; 
+21;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1;;;1;1;1;1;473129;0; 
+22;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;5087457;0; 
+23;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;5087457;0; 
+24;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;2;0;1;1;5107195;0; 
+25;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;1;;;1;1;1;1;5107195;0; 
+26;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;2;0;2;1;40376793;0; 
+27;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;40376793;0; 
+28;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;40462255;0; 
+29;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;40462255;0; 
+30;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;;1;1;1;1;1;456785;1; 
+31;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;2;1;1;1;1;1;456785;2; 
+32;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;INTERMEDIATE;2;1;;1;1;1;0;1;7;458177;1; 
+33;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;T/OFF;3;1;;;;1;0;1;7;458177;2; 
+34;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;3;;1;0;1;1;460520;1; 
+35;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;T/OFF;7;1;;;;1;1;2;1;460520;2; 
+36;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;T/OFF;3;1;;;;1;0;1;7;462857;1; 
+37;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;INTER/ANGLE;2;1;;1;;2;0;1;7;462857;2; 
+38;April;; ; ;LV; ;400; ; ; ;INTER/ANGLE;; ;;;; ; ; ;; ;0; 
+39;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;395630;1; 
+40;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7; ;;;;1;0;1;1;395630;2; 
+41;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7; ;;;;1;0;1;1;395630;3; 
+42;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;T/OFF;7;1;;;;1;1;1;1;395630;4; 
+43;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;;;1;0;2;1;395630;3; 
+44;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;2;;2;0;1;1;396201;1; 
+45;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;2;0;2;1;396201;2; 
+46;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;2;0;1;1;10175385;1; 
+47;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;T/OFF;7;1;;1;;2;0;1;1;10175385;2; 
+48;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1;1;;1;1;1;1;5105370;0; 
+49;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;1;1;1;1;1;5105370;0; 
+50;April;9;Wood;grace jose;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;;No Stay;1 Wire stay;None;1;447942;0;1
+51;April;9;Wood;GRACE JOSE;LV;Pole;400;50sqm;ABC;TRUE;INTERMEDIATE;7;YES;;;;No Stay;1 wire saty;None;1; ;0;0
+52;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES;;;;Out Rigger Stay;No Wire stay;None;1;460155;0;1
+53;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;NO;;;;No Stay;No Wire stay;Strut Pole;1;464101;0;None
+54;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;NO;;;;No Stay;No Wire stay;None;1;464101;0;1
+55;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES;;;;No Stay;1 Wire stay;None;1;458996;0;1
+56;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;;No Stay;1 Wire stay;None;1;458996;0;1
+57;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES;;;;Out Rigger Stay;No Wire stay;None;1;468683;0;None
+58;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES;;;;No Stay;1 Wire stay;None;1;468683;0;None
+59;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES;;;;No Stay;No Wire stay;Strut Pole;1;468683;0;None
+60;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES;;;;No Stay;1 Wire stay;None;1;468683;0;1
+61;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTERMEDIATE;7;YES;;;1;No Stay;1 Wire stay;None;1;413677;0;None
+62;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;2;0;1;1;368198;0; 
+63;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;368198;0; 
+64;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;420491;0; 
+65;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;420491;0; 
+66;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;432583;0; 
+67;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;432583;0; 
+68;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;2;0;1;1;440522;0; 
+69;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;440522;0; 
+70;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;T/OFF;2;1;;1;;2;0;1;7;446000;0; 
+71;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;INTERMEDIATE;1;0;;1;;1;0;1;7;446000;0; 
+72;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;;2;1;1;1;1;450470;0; 
+73;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;2;1;0;1;1;450470;0; 
+74;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;1;2;1;1;0;2;1;467814;0; 
+75;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;3;1;0;1;1;467814;0; 
+76;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;474784;0; 
+77;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;474784;0; 
+78;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;INTERMEDIATE;1;0;;1;;1;0;1;7;5102040;0; 
+79;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;TERMINAL;4;1;;1;;1;0;2;7;5102040;0; 
+80;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;1;1;1;5103712;0; 
+81;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;5103712;0; 
+82;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;;4;1;0;1;1;5105374;0; 
+83;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1;;4;1;0;1;1;5105374;0; 
+84;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;5106812;0; 
+85;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;5106812;0; 
+86;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;1;1;1;5107718;0; 
+87;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1;1;;1;0;1;1;5107718;0; 
+88;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;1;;;1;0;1;1;5108161;0; 
+89;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;1;;;1;1;1;1;5108161;0; 
+90;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;1;;;1;1;1;1;5108365;0; 
+91;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;1;;;1;0;2;1;5108365;0; 
+92;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;5106938;0; 
+93;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;1;;;1;0;1;1;5106938;0; 
+94;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;2;0;2;1;418572;0; 
+95;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;0;2;1;418572;0; 
+96;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;426321;0; 
+97;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;426321;0; 
+98;April;11;Wood; ;Dual;Pole;11000;25/50 sqmm;3BC/ABC;1;T/OFF;2;1;;1;;1;0;1;7;426321;0; 
+99;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;0;;1;;1;0;2;1;426321;0; 
+100;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;439111;0; 
+101;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;439111;0; 
+102;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;0;;1;;1;0;1;1;439111;0; 
+103;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;0;2;1;439111;0; 
+104;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;;1;2;0;1;1;337341;0; 
+105;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;1;1;0;1;1;337341;0; 
+106;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;2;0;1;1;000045589.;0; 
+107;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;;1;0;1;1;000045589.;0; 
+108;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;;;1;1;2;1;163299;0; 
+109;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;;1;0;1;1;163299;0; 
+110;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;;;1;0;2;1;442677;0; 
+111;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;;1;1;1;1;442677;0; 
+112;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;2;1;1;1;1;442677;0; 
+113;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;;2;1;1;1;1;5104356;0; 
+114;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;;1;;1;0;1;1;5104356;0; 
+115;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTER/ANGLE;7;1;;1;;1;1;1;1;5106766;0; 
+116;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1;1;;1;0;1;1;5106766;0; 
+117;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;TERMINAL;7;1;;1;1;1;1; ;1;5106889;0; 
+118;April;9;Wood; ;LV;Pole;400;50 sqmm;1;1;INTERMEDIATE;7;1;1;;1;1;0; ;1;5106889;0; 
+119;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTERMEDIATE;7;YES;;;;No Stay;No Wire stay;None;1;465506;0;1
+120;April;9;Wood; ;Dual;Pole;11000;50/50 sqmm;3BC/ABC;TRUE;T/OFF;2;YES;;;;No Stay;No Wire stay;Strut Pole;7;465859;0;1
+121;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;;No Stay;1 Wire stay;None;1;465876;0;2
+122;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;1;No Stay;1 Wire stay;None;1;465877;0;1
+123;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES;;;;No Stay;No Wire stay;Strut Pole;1;467167;0;2
+124;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;INTER/ANGLE;7;YES;;;;No Stay;No Wire stay;Strut Pole;1;468589;0;1
+125;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES;;;;No Stay;1 Wire stay;Strut Pole;1;468999;0;1
+126;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;;No Stay;1 Wire stay;None;1;473069;0;2
+127;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES;;;;No Stay;No Wire stay;None;1;473464;0;1
+128;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;1;No Stay;1 Wire stay;None;1;474752;0;1
+129;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;TERMINAL;7;YES;;;;No Stay;1 Wire stay;None;1;475124;0;2
+130;April;9;Wood; ;LV;Pole;400;50 sqmm;ABC;TRUE;T/OFF;7;YES;;;;No Stay;No Wire stay;Strut Pole;1;479900;0;1
