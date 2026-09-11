@@ -9,3 +9,5 @@
 - Python
 - SQL
 - VS Code
+
+Each Development folder should have its own README.md explaining what the project is about and what I am trying to solve, the outcomes of each and how it would impact different organizations if they were to use the approaches.
