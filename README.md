@@ -4,8 +4,8 @@
 
 ## 🚀 C-Stack
 
-Power BI
-Excel
-Python
-SQL
-VS Code
+- Power BI
+- Excel
+- Python
+- SQL
+- VS Code
